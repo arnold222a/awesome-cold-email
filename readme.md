@@ -40,6 +40,7 @@ Cold email is permission-less B2B outreach done right: relevant, personalized, c
 - [Clay](https://www.clay.com/) - Data enrichment workspace that combines dozens of providers with AI research agents.
 - [ZeroBounce](https://www.zerobounce.net/) - Email validation service with activity data and deliverability toolkit.
 - [MillionVerifier](https://www.millionverifier.com/) - Bulk email verification service with pay-as-you-go pricing.
+- [Datacircle](https://datacircle.dev/best-email-finder-api) - Benchmarks of email finder and verification APIs, ranked by accuracy and what 1,000 calls cost.
 
 ## Deliverability
 
